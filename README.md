@@ -1,6 +1,6 @@
-# NXT29_QAL3_Team3/Midnight Cravings.
+# NXT29_QAL3_Team2/Midnight Cravings.
 
-# 🍽 Midnight Cravings
+
 
 > *"Anytime, anywhere — satisfy your cravings."*
 
